@@ -7,8 +7,8 @@ from threading import Timer
 log = ""
 
 # CONFIGURAÇÃO DO E-MAIL
-EMAIL_ORIGEM = "email@gmail.com" # inserir o e-mail de teste que for criado
-EMAIL_DESTINO = "email@gmail.com" # inserir o e-mail de teste que for criado pode ser o mesmo e-mail
+EMAIL_ORIGEM = "aaaaaaa@gmail.com" # inserir o e-mail de teste que for criado
+EMAIL_DESTINO = "aaaaaaa@gmail.com" # inserir o e-mail de teste que for criado pode ser o mesmo e-mail
 SENHA_EMAIL = "a" # inserir a senha que foi criada no link https://myaccount.google.com/apppasswords
 
 def enviar_email():
